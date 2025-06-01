@@ -1,1 +1,1 @@
-# CodeClauseInternship_-Image-Recognition-with-OpenCV
+# CodeClauseInternship_Image-Recognition-with-OpenCV
